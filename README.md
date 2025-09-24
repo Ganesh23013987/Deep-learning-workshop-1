@@ -1,5 +1,5 @@
 # DEEP-LEARNING-WORKSHOP
-Binary Classification with Neural Networks on the Census Income Dataset
+## Binary Classification with Neural Networks on the Census Income Dataset
 ## NAME: GANESH D
 ## REGISTER NUMBER:212223240035
 # PROGRAM:
